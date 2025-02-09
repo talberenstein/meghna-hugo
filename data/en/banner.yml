@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/home1.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Viroglio Fönster Renovera"
-  content : "we help homeowners and businesses enhance their properties through high-quality window renovation, window replacement, and energy-efficient solutions. With a focus on durability and design, we improve both aesthetics and energy efficiency"
+  content : "We enhance homes and businesses with durable, energy-efficient window renovations and replacements, combining quality craftsmanship with stylish design."
   button:
     enable : true
     label : "Gallery"
