@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/home1.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Viroglio Fönster Renovera"
-  content : "We help businesses maximize their sales potential through proven strategies in sales optimization, sales training, and sales consulting. With a data-driven and customized approach, we drive your growth and increase your profitability"
+  content : "we help homeowners and businesses enhance their properties through high-quality window renovation, window replacement, and energy-efficient solutions. With a focus on durability and design, we improve both aesthetics and energy efficiency"
   button:
     enable : true
-    label : "Read More"
-    link : "#services"
+    label : "Gallery"
+    link : "#gallery"

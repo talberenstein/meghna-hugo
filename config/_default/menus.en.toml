@@ -6,8 +6,8 @@ url = "#about"
 weight = 1
 
 [[main]]
-name = "services"
-url = "#services"
+name = "Gallery"
+url = "#gallery"
 weight = 2
 
 [[main]]

@@ -1,27 +1,27 @@
-############################# feature ###################################
+################################ feature ################################
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/window3.jpeg
+  image_webp: images/about/window3.jpeg
+  title: Professional Window Renovation Services in Sweden
+  content: "We specialize in high-quality window renovation services for residential and commercial properties across Sweden. Our expert team ensures energy efficiency, enhanced aesthetics, and long-lasting results."
+  feature_item:
+    # feature item loop
+    - title: Energy-Efficient Solutions
+      icon: ti-world
+      content: "Upgrade your windows to improve insulation and reduce energy costs. Our renovation services help make your property more energy-efficient, saving you money in the long run."
 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    # feature item loop
+    - title: Expert Craftsmanship
+      icon: ti-panel
+      content: "With years of experience, our skilled professionals deliver precision and quality in every project, ensuring durable and visually appealing window renovations."
+
+    # feature item loop
+    - title: Sustainable Practices
+      icon: ti-stats-up
+      content: "We prioritize eco-friendly materials and sustainable renovation practices, helping to reduce environmental impact without compromising on quality."
+
+    # feature item loop
+    - title: Personalized Service
+      icon: ti-announcement
+      content: "We work closely with our clients to understand their needs and preferences, offering customized solutions that meet their specific requirements and budget."

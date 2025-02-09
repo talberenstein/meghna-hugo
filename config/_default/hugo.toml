@@ -94,10 +94,10 @@ link = "plugins/google-map/map.js"
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "RESTORE_images/logo_184px.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Windows Fonster renovating for Sweden"
+author = "Tali Berenstein"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -145,26 +145,3 @@ link = "#"
 [[params.social]]
 icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-
-[Languages.en.params]
-weight = 1
-home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-
-[Languages.fr.params]
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

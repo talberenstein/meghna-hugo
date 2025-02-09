@@ -1,11 +1,11 @@
-############################# call to action ##############################
+################################ call to action ###########################
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: "images/backgrounds/home2.jpeg"
+  bg_image_webp: "images/backgrounds/home6.jpeg"
+  title: "Enhance Your Home with Expert Window Renovation"
+  content: "Looking to upgrade your windows? Our team provides top-quality renovation services that boost energy efficiency, improve aesthetics, and add value to your property. Let us help you transform your home."
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: "Get a Free Consultation"
+    link: "#contact"

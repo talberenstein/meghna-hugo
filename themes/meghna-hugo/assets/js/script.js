@@ -61,7 +61,7 @@ jQuery(function ($) {
 
 	$("#testimonials").slick({
 		infinite: true,
-		arrows: false,
+		arrows: true,
 		autoplay: true,
 		autoplaySpeed: 4000
 	});
