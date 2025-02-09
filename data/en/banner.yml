@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/home5.jpeg"
+  bg_image : "images/backgrounds/home1.jpeg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Viroglio Fönster Renovera"
+  content : "We help businesses maximize their sales potential through proven strategies in sales optimization, sales training, and sales consulting. With a data-driven and customized approach, we drive your growth and increase your profitability"
+  button:
+    enable : true
+    label : "Read More"
+    link : "#services"
